@@ -1,0 +1,5 @@
+<style>
+body:not(.et-fb) .rv_element { display: none; }
+.et_pb_button.rv_button_opened:after { content:"\32"; }
+.et_pb_button.rv_button_closed:after { content:"\33"; }
+</style>
